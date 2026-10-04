@@ -1,0 +1,11 @@
+.env
+backups/
+data/
+*.dump
+*.sql
+*.json
+*.gpx
+*.kml
+*.kmz
+*.geojson
+.DS_Store
